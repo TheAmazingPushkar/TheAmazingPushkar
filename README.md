@@ -1,5 +1,5 @@
 # Hi 👋, I'm Pushkar
-## 18 year old simple kid whi just wants to be free
+## 18 year old simple kid who just wants to be free
 
 ### ABOUT ME
 
