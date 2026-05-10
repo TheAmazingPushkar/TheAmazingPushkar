@@ -1,65 +1,109 @@
-# ⚡ Hi, I'm [Your Name] 
+# Hi there 👋, I'm Pushkar
+
+### 🚀 First Year CSE Student @ RNSIT
+
+Passionate about **technology, innovation, scalable systems, AI, backend engineering, and building impactful projects**.
+
+I love turning ideas into real products, exploring new technologies, participating in hackathons, and collaborating with people from different backgrounds.
+
+---
+
+## 🌟 About Me
+
+* 🎓 First Year Computer Science Engineering Student at **RNSIT**
+* 💡 Interested in:
+
+  * Backend Development
+  * Scalable Systems
+  * AI & Machine Learning
+  * Real-time Applications
+  * Startups & Innovation
+* ⚡ Currently learning:
+
+  * MERN Stack
+  * Django
+  * FastAPI
+  * Supabase
+  * System Design Basics
+  * DSA
+* 🛠️ Love building projects that solve real-world problems
+* 🌍 Open to collaborations, hackathons, and innovative ideas
+
+---
+
+## 🧠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Frameworks & Tools
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## 📌 Current Focus
+
+```txt
+Building scalable backend applications.
+Learning modern web technologies.
+Exploring AI integrations.
+Participating in hackathons & collaborations.
+```
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheAmazingPushkar&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAmazingPushkar&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAmazingPushkar&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Interests
+
+* Real-time Chat Applications
+* AI-powered Platforms
+* Developer Tools
+* Cross-domain Collaboration Platforms
+* Scalable Backend Architectures
+* Startup Ideas & Product Building
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0078d7&style=flat-square" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=CSE+Student+at+RNSIT;Building+Autonomous+AI+Agents;Full+Stack+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
-</p>
-
----
-
-### 🚀 About Me
-
-I am a Computer Science Engineering student at RNSIT, Bangalore, currently navigating the **Agentic Path** of AI. I focus on building systems that don't just process data but act on it.
-
-- 🔭 **Major Project:** Developing a cattle/buffalo classification system using **MobileNetV2** and **Django** (86% accuracy).
-- 🎓 **In the Lab:** Deepening DSA logic and mastering System Architecture.
-- 🛡️ **Interests:** Cybersecurity and ethical hacking via Kali Linux.
-- 🎯 **Goals:** Aiming for GSoC and winning hackathons.
-
----
-
-### 📊 GitHub Activity & Stats
-
-<!-- These cards pull LIVE data. Replace YOUR_GITHUB_USERNAME to see your real stats -->
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Total Contributions" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 💻 Tech Stack & Skills
-
-<!-- You can add more icons by adding the name of the tool to the i= parameter below -->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,django,tensorflow,linux,git,github,html,css" />
+  <a href="https://www.linkedin.com/in/PUSHKAR jr" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## ✨ Quote I Live By
 
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:YOUR_EMAIL_ADDRESS" target="blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-</p>
+> "Build. Learn. Fail. Improve. Repeat."
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://komarev.com/ghpvc/?username=TheAmazingPushkar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-  
