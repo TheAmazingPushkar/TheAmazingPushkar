@@ -92,7 +92,7 @@ Participating in hackathons & collaborations.
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/PUSHKAR jr" target="_blank">
+  <a href="https://www.linkedin.com/in/pushkar-jr" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -105,6 +105,3 @@ Participating in hackathons & collaborations.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheAmazingPushkar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
