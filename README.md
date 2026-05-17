@@ -20,12 +20,12 @@ I love turning ideas into real products, exploring new technologies, participati
   * Startups & Innovation
 * ⚡ Currently learning:
 
-  * MERN Stack
+  * Full Stack Web Development (University of Helsinki Open MOOC)
+  * Data Structures & Algorithms (DSA)
   * Django
-  * FastAPI
-  * Supabase
+  * FastAPI & Supabase
   * System Design Basics
-  * DSA
+    
 * 🛠️ Love building projects that solve real-world problems
 * 🌍 Open to collaborations, hackathons, and innovative ideas
 
@@ -61,6 +61,7 @@ Building scalable backend applications.
 Learning modern web technologies.
 Exploring AI integrations.
 Participating in hackathons & collaborations.
+
 ```
 
 ---
