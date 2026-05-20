@@ -64,19 +64,6 @@ Participating in hackathons & collaborations.
 
 ```
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheAmazingPushkar&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAmazingPushkar&theme=tokyonight&cache_seconds=86400" height="170" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAmazingPushkar&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages"/>
-</p>
----
 
 ## 🚀 Featured Interests
 
