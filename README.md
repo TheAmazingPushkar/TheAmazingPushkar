@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Pushkar
 
-### 🚀 First Year CSE Student @ RNSIT
+### 🚀 Sophomore | CSE Student @ RNSIT
 
 Passionate about **technology, innovation, scalable systems, AI, backend engineering, and building impactful projects**.
 
@@ -10,7 +10,7 @@ I love turning ideas into real products, exploring new technologies, participati
 
 ## 🌟 About Me
 
-* 🎓 First Year Computer Science Engineering Student at **RNSIT**
+* 🎓 Second Year Computer Science Engineering Student at **RNSIT**
 * 💡 Interested in:
 
   * Backend Development
@@ -22,9 +22,7 @@ I love turning ideas into real products, exploring new technologies, participati
 
   * Full Stack Web Development (University of Helsinki Open MOOC)
   * Data Structures & Algorithms (DSA)
-  * Django
-  * FastAPI & Supabase
-  * System Design Basics
+  * Web Security
     
 * 🛠️ Love building projects that solve real-world problems
 * 🌍 Open to collaborations, hackathons, and innovative ideas
