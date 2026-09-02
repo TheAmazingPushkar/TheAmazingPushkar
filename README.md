@@ -2,77 +2,13 @@
 
 ### 🚀 Sophomore | CSE Student @ RNSIT
 
-Passionate about **technology, innovation, scalable systems, AI, backend engineering, and building impactful projects**.
-
-I love turning ideas into real products, exploring new technologies, participating in hackathons, and collaborating with people from different backgrounds.
-
 ---
 
 ## 🌟 About Me
 
-* 🎓 Second Year Computer Science Engineering Student at **RNSIT**
-* 💡 Interested in:
-
-  * Backend Development
-  * Scalable Systems
-  * AI & Machine Learning
-  * Real-time Applications
-  * Startups & Innovation
-* ⚡ Currently learning:
-
-  * Full Stack Web Development (University of Helsinki Open MOOC)
-  * Data Structures & Algorithms (DSA)
-  * Web Security
-    
-* 🛠️ Love building projects that solve real-world problems
-* 🌍 Open to collaborations, hackathons, and innovative ideas
-
----
-
-## 🧠 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Frameworks & Tools
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## 📌 Current Focus
-
-```txt
-Building scalable backend applications.
-Learning modern web technologies.
-Exploring AI integrations.
-Participating in hackathons & collaborations.
-
-```
+CS sophomore at RNSIT, focused on full-stack development (JavaScript, Python), application security, and practical AI integration.
 
 
-## 🚀 Featured Interests
-
-* Real-time Chat Applications
-* AI-powered Platforms
-* Developer Tools
-* Cross-domain Collaboration Platforms
-* Scalable Backend Architectures
-* Startup Ideas & Product Building
-
----
 
 ## 🤝 Connect With Me
 
@@ -84,9 +20,5 @@ Participating in hackathons & collaborations.
 
 ---
 
-## ✨ Quote I Live By
 
-> "Build. Learn. Fail. Improve. Repeat."
-
----
 
